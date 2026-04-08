@@ -19,7 +19,7 @@ Analista de datos especializada en transformar datasets complejos en soluciones 
 ### 🛡️ [Risk-Analysis-Insurance-Strategy](LINK)
 **El Problema:** Las aseguradoras enfrentan pérdidas financieras al utilizar modelos de riesgo basados en promedios históricos que no detectan anomalías externas o cambios estructurales en la criminalidad local.
 
-**Impacto:** Optimicé los modelos actuariales mediante la detección de sesgos estadísticos en los datos de 2020 (confinamiento). Mi recomendación de aislar este periodo previene la subestimación del riesgo y asegura la rentabilidad de las primas en zonas críticas como Querétaro.
+**Impacto:** Optimicé modelos mediante la detección de sesgos estadísticos en los datos de 2020 (confinamiento). Mi recomendación de aislar este periodo previene la subestimación del riesgo y asegura la rentabilidad de las primas en zonas críticas como Querétaro.
 
 **Stack:** `SQL Server` | `Python (Pandas)` | `Looker Studio` | `Estadística Inferencial`
 
