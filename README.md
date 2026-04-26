@@ -16,6 +16,14 @@ Analista de datos especializada en transformar datasets complejos en soluciones 
 
 ## 📂 Proyectos Estratégicos
 
+### 🔍 [Pipeline-Validacion-Seguros](https://github.com/Susanaolvera21/pipeline-validacion-seguros)
+
+**El Problema:** Las instituciones financieras enfrentan riesgos operativos al procesar grandes volúmenes de datos de reclamaciones sin validación automática, lo que puede comprometer la integridad de la información y el servicio al cliente final.
+
+**Impacto:** Construí un pipeline end-to-end que automatiza la validación, detección de outliers y análisis sectorial de 327 instituciones financieras. El proceso que antes requería revisión manual queda ejecutado en segundos, garantizando que solo datos íntegros alimenten los sistemas de decisión.
+
+**Stack:** `Python (Pandas)` | `SQL (SQLite)` | `Matplotlib` | `Jupyter Notebook` | `Datos Abiertos CONDUSEF`
+
 ### 🛡️ [Risk-Analysis-Insurance-Strategy](LINK)
 **El Problema:** Las aseguradoras enfrentan pérdidas financieras al utilizar modelos de riesgo basados en promedios históricos que no detectan anomalías externas o cambios estructurales en la criminalidad local.
 
